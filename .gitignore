@@ -27,4 +27,7 @@ dist/
 # IDE
 .idea/
 .vscode/
-*.swp 
+*.swp
+
+# Images
+your_image.png 
